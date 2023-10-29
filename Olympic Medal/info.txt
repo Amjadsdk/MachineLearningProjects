@@ -1,0 +1,1 @@
+This project takes the medals from countries previous years in the summer olympics and uses that along with other information to determine how many they will win in the coming year.
