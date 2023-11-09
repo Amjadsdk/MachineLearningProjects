@@ -1,1 +1,3 @@
 this will tell you if the news you input is fake or real. The tests I did worked somewhat well so I included a reflection/what I can change in the future at the bottom.
+
+I also included the news articles I used for the tests in the folder.
