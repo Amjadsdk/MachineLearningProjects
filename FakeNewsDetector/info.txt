@@ -1,0 +1,1 @@
+this will tell you if the news you input is fake or real. The tests I did worked somewhat well so I included a reflection/what I can change in the future at the bottom.
